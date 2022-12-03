@@ -1,0 +1,23 @@
+{
+  "name": "ethindia22-songblocks",
+  "version": "1.0.0",
+  "description": "ETHIndia Final Submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketp02/ETHIndia22-SongBlocks.git"
+  },
+  "author": "aniketp02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniketp02/ETHIndia22-SongBlocks/issues"
+  },
+  "homepage": "https://github.com/aniketp02/ETHIndia22-SongBlocks#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.3"
+  }
+}
